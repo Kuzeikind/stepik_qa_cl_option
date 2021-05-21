@@ -71,19 +71,3 @@ def browser():
 	yield _browser
 	# Tear down
 	_browser.close()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
